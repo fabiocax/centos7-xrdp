@@ -18,7 +18,7 @@ RUN /bin/bash -xe /setup-libreoffice.sh
 ADD setupcontainer.sh /
 RUN /bin/bash -xe  /setupcontainer.sh
 ADD entrypoint.sh /
-
+ADD home.tar.gz / 
 EXPOSE 3389
 VOLUME /home
 ENTRYPOINT ["/bin/bash", "/entrypoint.sh"]
