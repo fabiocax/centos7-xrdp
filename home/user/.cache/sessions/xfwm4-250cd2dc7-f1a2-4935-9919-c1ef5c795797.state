@@ -1,0 +1,13 @@
+[CLIENT] 0x2400003
+  [CLIENT_ID] 259baa90e-9e54-4b5a-b738-771172f2ede2
+  [CLIENT_LEADER] 0x2400001
+  [WINDOW_ROLE] xfce4-terminal-1615486807-1012371337
+  [RES_NAME] xfce4-terminal
+  [RES_CLASS] Xfce4-terminal
+  [WM_NAME] Terminal - user@f94362dec8f5:~
+  [WM_COMMAND] (1) "xfce4-terminal"
+  [GEOMETRY] (3,60,814,483)
+  [GEOMETRY-MAXIMIZED] (3,60,814,483)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10000

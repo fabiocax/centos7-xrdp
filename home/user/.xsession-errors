@@ -1,0 +1,9 @@
+generating cookie with syscall
+generating cookie with syscall
+generating cookie with syscall
+generating cookie with syscall
+xfce4-session-Message: 15:40:14.645: SSH authentication agent is already running
+
+(xfce4-session:30): xfce4-session-WARNING **: 15:40:15.044: xfsm_manager_load_session: Something wrong with /home/user/.cache/sessions/xfce4-session-08a3626398d5:10, Does it exist? Permissions issue?
+
+(xfwm4:146): xfwm4-WARNING **: 15:40:15.231: Error opening /dev/dri/card0: No such file or directory

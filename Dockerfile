@@ -13,7 +13,6 @@ RUN localedef -v -c -i pt_BR -f UTF-8 pt_BR.UTF-8; echo "";
 RUN yum remove -y NetworkManager ctags
 ADD rpms/emacs25-25.2-1.el7.centos.x86_64.rpm /
 #RUN yum install -y ./emacs25-25.2-1.el7.centos.x86_64.rpm
-#ADD skel/.config /etc/skel/.config
 ADD setup-libreoffice.sh /
 RUN /bin/bash -xe /setup-libreoffice.sh
 ADD setupcontainer.sh /
