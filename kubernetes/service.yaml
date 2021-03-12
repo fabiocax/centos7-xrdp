@@ -1,0 +1,15 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: xrdp
+  namespace: infra
+spec:
+  selector:
+    app: xrdp
+  ports:
+  - name: xrdp
+    protocol: TCP
+    port: 3389
+    targetPort: 3389
+  type: LoadBalancer
+~                    
