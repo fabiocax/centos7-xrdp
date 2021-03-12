@@ -2,25 +2,8 @@ generating cookie with syscall
 generating cookie with syscall
 generating cookie with syscall
 generating cookie with syscall
-xfce4-session-Message: 17:54:49.560: SSH authentication agent is already running
-gpg-agent[99]: directory `/home/user/.gnupg' created
-gpg-agent[99]: directory `/home/user/.gnupg/private-keys-v1.d' created
-gpg-agent[140]: gpg-agent (GnuPG) 2.0.22 started
+xfce4-session-Message: 15:28:09.993: SSH authentication agent is already running
 
-(xfce4-session:33): xfce4-session-WARNING **: 17:54:49.914: xfsm_manager_load_session: Something wrong with /home/user/.cache/sessions/xfce4-session-a5b90aeb1bab:10, Does it exist? Permissions issue?
+(xfce4-session:31): xfce4-session-WARNING **: 15:28:10.356: xfsm_manager_load_session: Something wrong with /home/user/.cache/sessions/xfce4-session-65c54ed8b887:10, Does it exist? Permissions issue?
 
-(xfwm4:142): GLib-CRITICAL **: 17:54:49.983: g_str_has_prefix: assertion 'prefix != NULL' failed
-
-(xfsettingsd:152): GLib-CRITICAL **: 17:54:50.020: g_str_has_prefix: assertion 'prefix != NULL' failed
-
-(xfsettingsd:152): GLib-GObject-CRITICAL **: 17:54:50.025: g_value_get_string: assertion 'G_VALUE_HOLDS_STRING (value)' failed
-
-(xfsettingsd:152): GLib-GObject-CRITICAL **: 17:54:50.031: g_value_get_string: assertion 'G_VALUE_HOLDS_STRING (value)' failed
-
-(xfwm4:142): xfwm4-WARNING **: 17:54:50.061: The property '/general/double_click_distance' of type int is not supported
-
-(xfdesktop:156): GLib-GObject-CRITICAL **: 17:54:50.159: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
-
-(xfwm4:142): xfwm4-WARNING **: 17:54:50.170: Error opening /dev/dri/card0: No such file or directory
-
-(xfwm4:142): xfwm4-WARNING **: 17:54:50.837: Another compositing manager is running on screen 0
+(xfwm4:147): xfwm4-WARNING **: 15:28:10.600: Error opening /dev/dri/card0: No such file or directory
