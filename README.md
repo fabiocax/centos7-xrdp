@@ -1,5 +1,5 @@
-# centos7-xrdp
-## Rodando o Centos 7 com XRDP
+# centos8-xrdp
+## Rodando o Centos 8 com XRDP
 
 docker build -f Dockerfile -t xrdp:latest .
 
